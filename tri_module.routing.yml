@@ -1,0 +1,8 @@
+tri_module.tri_form:
+  path: '/drupal10/web/tri/gerar'
+  defaults:
+    _controller: '\Drupal\tri_module\Controller\TriController::gerarTri'
+    _title: 'TRI Gerado'
+  requirements:
+    _permission: 'access content'
+  methods: [POST]

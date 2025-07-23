@@ -1,0 +1,5 @@
+name: 'TRI Formulário'
+type: module
+description: 'Gera o termo TRI via formulário.'
+core_version_requirement: ^10
+package: Custom
