@@ -47,7 +47,7 @@ O documento é preenchido dinamicamente por meio de um formulário e pode ser im
 ├── tri_module.info.yml
 ├── tri_module.routing.yml
 ├── src/Controller/TriController.php
-└── css/print.css
+
  
  ## Requisito
 
@@ -67,7 +67,7 @@ Versão 1.0.0 - 18/07/2025
 
 ## Autoria e Créditos
 
-    Autor Principal: Roger Pantoja da Silva
+    Autor Principal: Roger Pantoja
     Data de Criação: Julho/2025
 
     Desenvolvimento: Este módulo foi elaborado por Roger Pantoja da Silva com o apoio da inteligência artificial ChatGPT da OpenAI, atuando como assistente na codificação, estruturação e depuração do projeto Drupal 10.
