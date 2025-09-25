@@ -21,12 +21,16 @@ O documento é preenchido dinamicamente por meio de um formulário e pode ser im
 
 ## Instalação e Configuração
 
-1. Coloque a pasta `tri_module` dentro do diretório `/modules/custom` da sua instalação do Drupal 10.
-2. Acesse a página "Estender" do Drupal: `/admin/modules` e marque a opção **TRI - Termo de Responsabilidade Individual**.
-3. Crie uma nova página no seu site com o caminho `/tri` (ou conforme desejar).
+1. Coloque a pasta `tri_module` dentro do diretório `/modules/` da sua instalação do Drupal 10.
+2. Acesse a página "Estender" do Drupal: `/admin/modules` e marque para habilitar o módulo **TRI - Termo de Responsabilidade Individual**.
+3. Crie uma nova página no formato de texto html completo em seu site com o "Apelido de URL `/tri` (ou conforme desejar).
 4. Na página criada, adicione o seguinte formulário HTML (em um bloco ou conteúdo do tipo "Página Básica"):
 
    <form method="POST" action="drupal10/web/tri/gerar">
+    <h2>
+        TRI - Termo de Responsabilidade Individual
+    </h2>
+    <hr>
     <div class="form-group">
         <label for="nomeCompleto">Nome Completo</label> <input class="form-control" style="text-transform:uppercase;" type="text" maxlength="50" size="50" name="nome_completo" id="nomecompleto" required="">
     </div>
@@ -65,12 +69,17 @@ Versão 1.0.0 - 18/07/2025
     Layout responsivo e compatível com formato A4
     Texto legal completo e otimizado para impressão
 
+Versão 1.1.0 - 25/09/2025
+
+    Formulário atualizado
+    Detalhes da configuração do módulo
+
 ## Autoria e Créditos
 
-    Autor Principal: Roger Pantoja da Silva
+    Autor Principal: Roger Pantoja
     Data de Criação: Julho/2025
 
-    Desenvolvimento: Este módulo foi elaborado por Roger Pantoja da Silva com o apoio da inteligência artificial ChatGPT da OpenAI, atuando como assistente na codificação, estruturação e depuração do projeto Drupal 10.
+    Desenvolvimento: Este módulo foi elaborado por Roger Pantoja com o apoio da inteligência artificial ChatGPT da OpenAI, atuando como assistente na codificação, estruturação e depuração do projeto Drupal 10.
 
 ## Licença
 
