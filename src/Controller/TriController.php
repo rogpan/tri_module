@@ -100,14 +100,14 @@ class TriController extends ControllerBase {
 <body>
   <div id="corpotret">
     <div id="titulotret">
-      MARINHA DO BRASIL<br>
-      BASE DE FUZILEIROS NAVAIS DO RIO MERITI<br>
+      NOME DA ORGANIZAÇÃO<br>
+       NOME DA ORGANIZAÇÃO<br>
       TERMO DE RESPONSABILIDADE INDIVIDUAL
     </div>
     <div id="datatret">{$data}</div>
        <div id="textotret">
-Pelo  presente  instrumento,  eu,<b> {$post_grad} {$nomeCompleto}, {$nip}</b>, perante    a    Marinha    do      Brasil,    doravante  denominada  MB,  na  qualidade  de  usuário  do  ambiente  computacional  de  propriedade
-daquela Instituição, <b>declaro estar ciente</b> das seguintes normas de segurança da informação em vigor na MB:</br>
+Pelo  presente  instrumento,  eu,<b> {$post_grad} {$nomeCompleto}, {$nip}</b>, perante    a    Mxxxx    do      Brxxx,    doravante  denominada  MB,  na  qualidade  de  usuário  do  ambiente  computacional  de  propriedade
+daquela Instituição, <b>declaro estar ciente</b> das seguintes normas de segurança da informação em vigor na MXB:</br>
 (a) tratar a informação digital como patrimônio da MB e como um recurso que deva ter seu sigilo preservado, em consonância com a legislação vigente;</br>
 (b) utilizar as informações disponíveis e os sistemas e produtos computacionais, dos quais a MB é
 proprietária ou possui o direito de uso, exclusivamente para o interesse do serviço;</br>
@@ -116,7 +116,7 @@ proprietária ou possui o direito de uso, exclusivamente para o interesse do ser
 (e) não compartilhar o uso de senha com outros usuários;</br>
 (f) não me fazer passar por outro usuário usando a sua identificação de acesso e senha;</br>
 (g) não alterar o endereço de rede ou qualquer outro dado de identificação do microcomputador de meu uso;</br>
-(h) instalar e utilizar em meu microcomputador somente programas homologados para uso na MB e que esta possua as respectivas licenças de uso ou, no caso de programas de domínio público, mediante autorização formal do Oficial de Segurança de Informações e Comunicações (OSIC) da OM;</br>
+(h) instalar e utilizar em meu microcomputador somente programas homologados para uso na MXB e que esta possua as respectivas licenças de uso ou, no caso de programas de domínio público, mediante autorização formal do Oficial de Segurança de Informações e Comunicações (OSIC) da OM;</br>
 (i) no caso de exoneração, demissão, licenciamento, término de prestação de serviço ou qualquer tipo de afastamento, preservar o conteúdo das informações e documentos sigilosos a que tive acesso e não divulgá-los para pessoas não autorizadas;</br>
 (j) guardar   segredo   das   minhas   autenticações   de   acesso   (senhas)   utilizadas   no   ambiente computacional da OM, não cedendo, não transferindo, não divulgando e não permitindo o seu conhecimento por terceiros;</br>
 (k) não utilizar senha com seqüência fácil ou óbvia de caracteres que facilite a sua descoberta e não escrever a senha em lugares visíveis ou de fácil acesso;</br>
@@ -128,12 +128,12 @@ proprietária ou possui o direito de uso, exclusivamente para o interesse do ser
 (q) não praticar quaisquer atos que possam afetar o sigilo ou a integridade da informação;</br>
 (r) estar ciente de que toda informação digital armazenada e processada no ambiente computacional da OM pode ser auditada, como no caso de páginas informativas (“sites”)  visitadas por mim;</br>
 (s) não transmitir, copiar  ou reter  arquivos  contendo textos, fotos, filmes  ou quaisquer  outros registros que contrariem a moral, os bons costumes e a legislação vigente;</br>
-(t) não transferir qualquer tipo de arquivo que pertença à MB para outro local, seja por meio magnético   ou   não,   exceto   no   interesse   do   serviço   e   mediante   autorização   da   autoridade
+(t) não transferir qualquer tipo de arquivo que pertença à MXB para outro local, seja por meio magnético   ou   não,   exceto   no   interesse   do   serviço   e   mediante   autorização   da   autoridade
 competente;</br>
 (u) estar ciente de que o processamento, o trâmite e o armazenamento de arquivos que não sejam de interesse do serviço são expressamente proibidos no ambiente computacional da OM;</br>
-(v) estar   ciente   de   que   a   MB   poderá   auditar   os   arquivos   em   trâmite   ou   armazenados   nos equipamentos do ambiente computacional da OM sob meu uso ou responsabilidade;</br>
+(v) estar   ciente   de   que   a   MXB   poderá   auditar   os   arquivos   em   trâmite   ou   armazenados   nos equipamentos do ambiente computacional da OM sob meu uso ou responsabilidade;</br>
 (w) estar ciente de que o correio eletrônico é de uso exclusivo para o interesse do serviço e qualquer correspondência eletrônica originada ou retransmitida no ambiente computacional da OM deve obedecer a este preceito; e</br>
-(x) estar   ciente   de   que   a   MB   poderá   auditar   as   correspondências   eletrônicas   originadas   ou retransmitidas por mim no ambiente computacional da OM.</br>
+(x) estar   ciente   de   que   a   MXB   poderá   auditar   as   correspondências   eletrônicas   originadas   ou retransmitidas por mim no ambiente computacional da OM.</br>
 Desta forma, estou ciente da minha responsabilidade pelas conseqüências decorrentes da não observância do acima exposto e da legislação vigente.</br>
 <div id="assinaturatret">
 
