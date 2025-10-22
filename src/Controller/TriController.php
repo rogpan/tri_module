@@ -108,8 +108,8 @@ class TriController extends ControllerBase {
        <div id="textotret">
 Pelo  presente  instrumento,  eu,<b> {$post_grad} {$nomeCompleto}, {$nip}</b>, perante    a    Mxxxx    do      Brxxx,    doravante  denominada  MB,  na  qualidade  de  usuário  do  ambiente  computacional  de  propriedade
 daquela Instituição, <b>declaro estar ciente</b> das seguintes normas de segurança da informação em vigor na MXB:</br>
-(a) tratar a informação digital como patrimônio da MB e como um recurso que deva ter seu sigilo preservado, em consonância com a legislação vigente;</br>
-(b) utilizar as informações disponíveis e os sistemas e produtos computacionais, dos quais a MB é
+(a) tratar a informação digital como patrimônio da MXB e como um recurso que deva ter seu sigilo preservado, em consonância com a legislação vigente;</br>
+(b) utilizar as informações disponíveis e os sistemas e produtos computacionais, dos quais a MxB é
 proprietária ou possui o direito de uso, exclusivamente para o interesse do serviço;</br>
 (c) preservar o conteúdo das informações sigilosas a que tiver acesso, sem divulgá-las para pessoas não autorizadas;</br>
 (d) não tentar obter acesso à informação cujo grau de sigilo não seja compatível com a minha Credencial de Segurança (CREDSEG) ou que eu não tenha autorização ou necessidade de conhecer;</br>
